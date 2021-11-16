@@ -1,13 +1,12 @@
-import logo from './logo192.png';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src="./logo192.png" className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> by Agung Adi.
+          Edit <code>src/App.js</code> by Agung Adi
         </p>
         <a
           className="App-link"
